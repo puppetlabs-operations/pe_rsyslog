@@ -1,0 +1,10 @@
+name    'pe-rsyslog'
+version '0.0.1'
+source 'UNKNOWN'
+author 'puppetlabs-operations'
+license 'Apache License, Version 2.0'
+summary 'Puppet Enterprise module for saz-rsyslog'
+description 'UNKNOWN'
+project_page 'UNKNOWN'
+
+dependency 'saz/rsyslog', '2.0.0'
